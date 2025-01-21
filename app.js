@@ -64,4 +64,5 @@ function reiniciarJogo(){
     tentativas = 1;
     mensagemInicial();
     document.getElementById('reiniciar').setAttribute('disabled', true);
+    
 }
